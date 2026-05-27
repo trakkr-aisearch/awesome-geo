@@ -1,0 +1,85 @@
+name: Refresh top brands badge
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "12 7 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate badge
+        run: |
+          python3 - <<'PY'
+          import html
+          import json
+          import urllib.request
+          from pathlib import Path
+
+          url = "https://ranking-api-830752870576.us-east1.run.app/api/rankings/global?limit=5"
+          req = urllib.request.Request(url, headers={"User-Agent": "awesome-geo-badge/1.0"})
+          with urllib.request.urlopen(req, timeout=30) as response:
+              payload = json.loads(response.read().decode("utf-8"))
+
+          rankings = payload.get("rankings", [])[:5]
+          names = []
+          for item in rankings:
+              name = item.get("brand_id") or item.get("brand") or item.get("name")
+              if name:
+                  names.append(str(name))
+
+          if len(names) < 5:
+              raise SystemExit("Ranking API returned fewer than five brands")
+
+          left = "Top 5 brands today"
+          right = " | ".join(f"{index} {name}" for index, name in enumerate(names, 1))
+          left_width = 132
+          right_width = max(420, 7 * len(right) + 18)
+          width = left_width + right_width
+          right_center = left_width + right_width / 2
+          label = f"{left}: {', '.join(names)}"
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="20" role="img" aria-label="{html.escape(label)}">
+            <linearGradient id="s" x2="0" y2="100%">
+              <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
+              <stop offset=".1" stop-color="#aaa" stop-opacity=".1"/>
+              <stop offset=".9" stop-opacity=".3"/>
+              <stop offset="1" stop-opacity=".5"/>
+            </linearGradient>
+            <clipPath id="r">
+              <rect width="{width}" height="20" rx="3" fill="#fff"/>
+            </clipPath>
+            <g clip-path="url(#r)">
+              <rect width="{left_width}" height="20" fill="#555"/>
+              <rect x="{left_width}" width="{right_width}" height="20" fill="#0e8f5a"/>
+              <rect width="{width}" height="20" fill="url(#s)"/>
+            </g>
+            <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="11">
+              <text x="{left_width / 2}" y="15" fill="#010101" fill-opacity=".3">{html.escape(left)}</text>
+              <text x="{left_width / 2}" y="14">{html.escape(left)}</text>
+              <text x="{right_center}" y="15" fill="#010101" fill-opacity=".3">{html.escape(right)}</text>
+              <text x="{right_center}" y="14">{html.escape(right)}</text>
+            </g>
+          </svg>
+          '''
+          Path("assets/top-brands.svg").write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Commit updated badge
+        run: |
+          if git diff --quiet -- assets/top-brands.svg; then
+            echo "Badge is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/top-brands.svg
+          git commit -m "Refresh top brands badge"
+          git push

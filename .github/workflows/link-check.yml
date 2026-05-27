@@ -1,0 +1,39 @@
+name: Link check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 8 * * 1"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --exclude-mail
+            --accept 200,204,206,301,302,403,405,429
+            --output ./lychee-out.md
+            README.md CONTRIBUTING.md
+          fail: true
+          format: markdown
+
+      - name: Open issue for broken links
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found by weekly link check
+          content-filepath: ./lychee-out.md
+          labels: maintenance, links
