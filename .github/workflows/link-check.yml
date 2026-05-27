@@ -28,7 +28,6 @@ jobs:
             --no-progress
             --exclude-mail
             --accept 200,204,206,301,302,403,405,429
-            --output ./lychee-out.md
             README.md CONTRIBUTING.md
           fail: true
           format: markdown
@@ -38,5 +37,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Broken links found by weekly link check
-          content-filepath: ./lychee-out.md
+          content-filepath: ./lychee/out.md
           labels: maintenance, links
