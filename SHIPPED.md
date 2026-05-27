@@ -1,8 +1,8 @@
 # Shipped
 
-Published repo URL: Not published yet. Target URL: https://github.com/trakkr-aisearch/awesome-geo
+Published repo URL: https://github.com/trakkr-aisearch/awesome-geo
 
-Publish status: Blocked by GitHub permissions. The provided PAT authenticates as `macklpgr` and can read `trakkr-aisearch`, but GitHub returns `403 Resource not accessible by personal access token` when creating `trakkr-aisearch/awesome-geo`.
+Publish status: Published to `main`. The repository is public and the README renders with the top-brands badge and table-of-contents links.
 
 ## Entry Counts
 
@@ -25,7 +25,9 @@ Publish status: Blocked by GitHub permissions. The provided PAT authenticates as
 
 ## Verification
 
-Link-check status: Local link sweep passed with 190 external URLs checked and 0 failures under the same accepted-status policy as the GitHub Action. `awesome-lint` passed. The GitHub Actions link-check workflow could not be run because the GitHub repository could not be created with the supplied PAT.
+Link-check status: GitHub Actions link-check passed at https://github.com/trakkr-aisearch/awesome-geo/actions/runs/26507902709. Local link sweep also passed with 190 external URLs checked and 0 failures under the same accepted-status policy.
+
+Awesome-list status: README content passes awesome-list linting; the GitHub API still rejects topic edits with `403 Resource not accessible by personal access token`, so the repo topics need to be set in the GitHub UI or with a token that has repo administration permission.
 
 Sensitivity flags: none. No `SENSITIVITY_FLAGS.md` was created.
 
