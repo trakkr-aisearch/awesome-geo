@@ -274,7 +274,7 @@
         {
           "name": "AI 500",
           "url": "https://github.com/trakkr-aisearch/ai-500",
-          "description": "Public monthly dataset of the top 500 brands in Trakkr global AI visibility rankings. Latest JSON: [raw snapshot](https://raw.githubusercontent.com/trakkr-aisearch/ai-500/main/latest.json). Public feed: [api.trakkr.ai/public/rankings/global](https://api.trakkr.ai/public/rankings/global?limit=500)."
+          "description": "Public monthly dataset of the top 500 brands in Trakkr global AI visibility rankings. Latest JSON: [raw snapshot](https://raw.githubusercontent.com/trakkr-aisearch/ai-500/main/latest.json)."
         },
         {
           "name": "ALCE",
