@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference Awesome GEO, cite the repository."
+title: "Awesome GEO"
+type: dataset
+authors:
+  - name: "Trakkr"
+version: "0.1.0"
+date-released: "2026-05-28"
+license: "CC0-1.0"
+repository-code: "https://github.com/trakkr-aisearch/awesome-geo"
+url: "https://github.com/trakkr-aisearch/awesome-geo"
+abstract: "Maintained open index of generative engine optimization resources, tools, datasets, papers, communities, and crawler guidance."
+keywords:
+  - "generative engine optimization"
+  - "answer engine optimization"
+  - "AI search"
+  - "llms.txt"
+  - "AI visibility"

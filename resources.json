@@ -1,0 +1,1020 @@
+{
+  "schema_version": "1.0",
+  "name": "Awesome GEO",
+  "repository_url": "https://github.com/trakkr-aisearch/awesome-geo",
+  "license": "CC0-1.0",
+  "maintainer": {
+    "name": "Trakkr",
+    "url": "https://trakkr.ai"
+  },
+  "source": "README.md",
+  "sections": [
+    {
+      "id": "tools-commercial",
+      "title": "Tools (Commercial)",
+      "resources": [
+        {
+          "name": "Trakkr",
+          "url": "https://trakkr.ai/",
+          "description": "AI visibility platform; maintains the AI 500 public ranking."
+        },
+        {
+          "name": "AEO Engine",
+          "url": "https://aeoengine.ai/",
+          "description": "Platform for tracking and improving brand visibility across AI answer engines."
+        },
+        {
+          "name": "AEOVisor",
+          "url": "https://www.aeovisor.com/",
+          "description": "Platform for AEO audits, monitoring, and optimization workflows."
+        },
+        {
+          "name": "Ahrefs Brand Radar",
+          "url": "https://ahrefs.com/brand-radar",
+          "description": "Ahrefs product for tracking brand mentions, citations, and competitors across AI search surfaces."
+        },
+        {
+          "name": "AirOps",
+          "url": "https://www.airops.com/",
+          "description": "Content operations platform with workflows for AI search and SEO teams."
+        },
+        {
+          "name": "Alhena AI Visibility",
+          "url": "https://alhena.ai/products/ai-visibility",
+          "description": "Ecommerce-oriented tool for measuring product and brand visibility in AI search."
+        },
+        {
+          "name": "AthenaHQ",
+          "url": "https://athenahq.ai/",
+          "description": "Platform for monitoring, diagnosing, and acting on brand visibility across AI search systems."
+        },
+        {
+          "name": "Bluefish AI",
+          "url": "https://www.bluefishai.com/",
+          "description": "Platform for measuring brand presence and recommendations in AI-generated answers."
+        },
+        {
+          "name": "Brandlight",
+          "url": "https://www.brandlight.ai/",
+          "description": "AI visibility platform for brand monitoring, competitor comparison, and response analysis."
+        },
+        {
+          "name": "Evertune",
+          "url": "https://www.evertune.ai/",
+          "description": "Platform for AI brand monitoring, prompt analysis, and GEO workflows."
+        },
+        {
+          "name": "Foglift",
+          "url": "https://www.foglift.com/",
+          "description": "AI search visibility platform for monitoring brand mentions and citations."
+        },
+        {
+          "name": "Gauge",
+          "url": "https://www.withgauge.com/",
+          "description": "AI search analytics platform for tracking brand and competitor visibility."
+        },
+        {
+          "name": "GetMint",
+          "url": "https://getmint.ai/",
+          "description": "Platform for monitoring and improving how brands appear in AI search responses."
+        },
+        {
+          "name": "Goodie",
+          "url": "https://higoodie.com/",
+          "description": "AI search visibility platform for answer monitoring and action planning."
+        },
+        {
+          "name": "Hall",
+          "url": "https://usehall.com/",
+          "description": "AI visibility tool for tracking brand mentions, sentiment, and citations."
+        },
+        {
+          "name": "Knowatoa",
+          "url": "https://knowatoa.com/",
+          "description": "AI visibility platform for prompt tracking and competitive monitoring."
+        },
+        {
+          "name": "LLMrefs",
+          "url": "https://llmrefs.com/",
+          "description": "Tool for monitoring which pages and domains LLMs reference across prompts."
+        },
+        {
+          "name": "Lumar AI Visibility",
+          "url": "https://www.lumar.io/ai-visibility-tracking-lumar/",
+          "description": "Lumar product for tracking AI brand visibility, citations, sentiment, and technical content gaps."
+        },
+        {
+          "name": "Meev",
+          "url": "https://meev.ai/",
+          "description": "AI visibility monitoring platform for brand, competitor, and citation tracking."
+        },
+        {
+          "name": "Otterly.AI",
+          "url": "https://otterly.ai/",
+          "description": "AI search monitoring tool for brand mentions and website citations across major answer engines."
+        },
+        {
+          "name": "Peec AI",
+          "url": "https://peec.ai/",
+          "description": "AI search analytics platform for visibility, sentiment, position, and source tracking."
+        },
+        {
+          "name": "Profound",
+          "url": "https://www.tryprofound.com/",
+          "description": "Platform for measuring and improving brand visibility in AI-generated answers."
+        },
+        {
+          "name": "Rankscale",
+          "url": "https://rankscale.ai/",
+          "description": "AI visibility platform for prompt tracking, source monitoring, and competitor comparison."
+        },
+        {
+          "name": "Scrunch",
+          "url": "https://scrunch.com/",
+          "description": "AI customer experience platform with monitoring, citation, agent traffic, and AI search insight features."
+        },
+        {
+          "name": "Semrush AI Visibility",
+          "url": "https://www.semrush.com/features/",
+          "description": "Semrush toolkit for tracking AI visibility, prompts, citations, and related SEO metrics."
+        },
+        {
+          "name": "Similarweb AI Brand Visibility",
+          "url": "https://aisearch.similarweb.com/ai-brand-visibility/",
+          "description": "Similarweb tool for checking how brands appear in AI-generated answers."
+        },
+        {
+          "name": "Writesonic GEO",
+          "url": "https://writesonic.com/",
+          "description": "Content and AI search platform with GEO tracking and optimization workflows."
+        },
+        {
+          "name": "ZipTie",
+          "url": "https://ziptie.dev/",
+          "description": "Platform for AI search visibility, citation tracking, and technical readiness checks."
+        }
+      ]
+    },
+    {
+      "id": "tools-open-source-and-free",
+      "title": "Tools (Open Source and Free)",
+      "resources": [
+        {
+          "name": "Ansvisor",
+          "url": "https://github.com/ansvisor/ansvisor",
+          "description": "Open-source answer engine visibility tracker for monitoring brand mentions across prompts."
+        },
+        {
+          "name": "BridgeToAgent llms.txt Validator",
+          "url": "https://github.com/BridgeToAgent/llms-txt-validator",
+          "description": "Open-source validator for checking llms.txt files from the command line or web."
+        },
+        {
+          "name": "GeoStorm",
+          "url": "https://github.com/geostorm-ai/geostorm",
+          "description": "Open-source GEO tracker for running prompts and analyzing AI answer visibility."
+        },
+        {
+          "name": "OneGlanse",
+          "url": "https://github.com/aryamantodkar/oneglanse",
+          "description": "Self-hostable AI visibility tracker for ChatGPT, Gemini, Claude, Perplexity, and Google AI Overview."
+        },
+        {
+          "name": "OpenCite",
+          "url": "https://github.com/smartaces/opencite",
+          "description": "Open-source project for logging and analyzing citations returned by LLMs."
+        },
+        {
+          "name": "Prompt Clarity",
+          "url": "https://github.com/promptclarity/promptclarity",
+          "description": "Open-source tool for tracking brand visibility in LLM responses with user-supplied API keys."
+        },
+        {
+          "name": "Schema Markup Validator",
+          "url": "https://validator.schema.org/",
+          "description": "Free validator for checking schema.org structured data."
+        },
+        {
+          "name": "TechnicalSEO Robots.txt Tester",
+          "url": "https://technicalseo.com/tools/robots-txt/",
+          "description": "Free browser tool for testing robots.txt rules against user agents."
+        }
+      ]
+    },
+    {
+      "id": "free-checkers",
+      "title": "Free Checkers",
+      "resources": [
+        {
+          "name": "AEOProof AEO Checker",
+          "url": "https://aeoproof.com/tools/ai-search-visibility-checker",
+          "description": "Free scan for AI-search readiness across structure, entities, schema, and trust signals."
+        },
+        {
+          "name": "AeoScan",
+          "url": "https://aeoscan.ai/",
+          "description": "Free checker for testing a domain and keyword across ChatGPT, Claude, Gemini, and Perplexity."
+        },
+        {
+          "name": "AIclicks GEO Visibility Checker",
+          "url": "https://aiclicks.io/tools/free-geo-visibility-checker",
+          "description": "Free GEO audit for checking brand and domain visibility signals."
+        },
+        {
+          "name": "Forzeo AI Visibility Checker",
+          "url": "https://forzeo.com/tools/ai-visibility-checker",
+          "description": "Free checker for crawler access, structured data, llms.txt, and AI readability."
+        },
+        {
+          "name": "GrowRanko AI Search Visibility Checker",
+          "url": "https://growranko.com/tools/ai-search-visibility",
+          "description": "Free URL checker for AI crawler access, llms.txt, schema, and content structure."
+        },
+        {
+          "name": "Loamly AI Visibility Checker",
+          "url": "https://www.loamly.ai/check",
+          "description": "Free report that checks brand visibility across ChatGPT, Claude, Perplexity, and Gemini."
+        },
+        {
+          "name": "PromptRush AI Visibility Checker",
+          "url": "https://www.promptrush.ai/free-ai-visibility-checker/",
+          "description": "Free checker for brand or domain visibility across AI answer engines."
+        },
+        {
+          "name": "Scrunch Brand Audit",
+          "url": "https://scrunch.com/brand-audit",
+          "description": "Free brand audit for AI visibility metrics and competitive analysis."
+        },
+        {
+          "name": "SearchScore",
+          "url": "https://searchscore.io/",
+          "description": "Free AI search, SEO, and conversion audit for a domain."
+        },
+        {
+          "name": "Semrush AI Search Visibility Checker",
+          "url": "https://www.semrush.com/free-tools/ai-search-visibility-checker/",
+          "description": "Free checker for brand visibility across ChatGPT, Gemini, and Google AI surfaces."
+        },
+        {
+          "name": "SiteTest AI Visibility Checker",
+          "url": "https://sitetest.ai/",
+          "description": "Free page audit for AI citation readiness, structured data, and crawler access."
+        },
+        {
+          "name": "Visiblo",
+          "url": "https://visiblo.io/",
+          "description": "Free AI visibility checker and GEO score tool."
+        }
+      ]
+    },
+    {
+      "id": "datasets-and-benchmarks",
+      "title": "Datasets and Benchmarks",
+      "resources": [
+        {
+          "name": "AI 500",
+          "url": "https://github.com/trakkr-aisearch/ai-500",
+          "description": "Public monthly dataset of the top 500 brands in Trakkr global AI visibility rankings. Latest JSON: [raw snapshot](https://raw.githubusercontent.com/trakkr-aisearch/ai-500/main/latest.json). Public feed: [api.trakkr.ai/public/rankings/global](https://api.trakkr.ai/public/rankings/global?limit=500)."
+        },
+        {
+          "name": "ALCE",
+          "url": "https://github.com/princeton-nlp/ALCE",
+          "description": "Benchmark and evaluation toolkit for LLM text generation with citations."
+        },
+        {
+          "name": "ASQA",
+          "url": "https://github.com/google-research/language/tree/master/language/asqa",
+          "description": "Ambiguous question answering dataset used in attributed and citation-aware answer generation research."
+        },
+        {
+          "name": "AttributionBench",
+          "url": "https://github.com/OSU-NLP-Group/AttributionBench",
+          "description": "Benchmark for evaluating automatic attribution methods in generative search."
+        },
+        {
+          "name": "BEIR",
+          "url": "https://github.com/beir-cellar/beir",
+          "description": "Heterogeneous information retrieval benchmark used for retrieval and ranking evaluation."
+        },
+        {
+          "name": "HAGRID",
+          "url": "https://github.com/project-miracl/hagrid",
+          "description": "Dataset for generative information seeking with source attribution."
+        },
+        {
+          "name": "HotpotQA",
+          "url": "https://hotpotqa.github.io/",
+          "description": "Multi-hop question answering benchmark for retrieval and reasoning evaluation."
+        },
+        {
+          "name": "KILT",
+          "url": "https://github.com/facebookresearch/KILT",
+          "description": "Knowledge-intensive language task benchmark for retrieval-grounded NLP systems."
+        },
+        {
+          "name": "MIRACL",
+          "url": "https://project-miracl.github.io/",
+          "description": "Multilingual information retrieval benchmark that underpins HAGRID."
+        },
+        {
+          "name": "MS MARCO",
+          "url": "https://microsoft.github.io/msmarco/",
+          "description": "Large-scale Microsoft dataset for passage ranking and question answering."
+        },
+        {
+          "name": "Natural Questions",
+          "url": "https://ai.google.com/research/NaturalQuestions",
+          "description": "Google dataset of real search queries and answers used in retrieval and QA research."
+        },
+        {
+          "name": "QAMPARI",
+          "url": "https://samsam3232.github.io/qampari/",
+          "description": "Open-domain QA benchmark for list answers and citation-aware generation."
+        },
+        {
+          "name": "RAGTruth",
+          "url": "https://github.com/ParticleMedia/RAGTruth",
+          "description": "Hallucination corpus for evaluating retrieval-augmented generation responses."
+        },
+        {
+          "name": "TREC Deep Learning Track",
+          "url": "https://microsoft.github.io/msmarco/TREC-Deep-Learning",
+          "description": "Shared task benchmark for passage and document ranking."
+        },
+        {
+          "name": "TruthfulQA",
+          "url": "https://github.com/sylinrl/TruthfulQA",
+          "description": "Benchmark for measuring whether language models produce truthful answers."
+        }
+      ]
+    },
+    {
+      "id": "llms-txt",
+      "title": "llms.txt",
+      "resources": [
+        {
+          "name": "Answer.AI llms.txt Spec",
+          "url": "https://github.com/AnswerDotAI/llms-txt",
+          "description": "Reference proposal for placing curated Markdown guidance for LLMs at `/llms.txt`."
+        },
+        {
+          "name": "Anthropic llms-full.txt",
+          "url": "https://platform.claude.com/llms-full.txt",
+          "description": "Full llms.txt example for Claude platform documentation."
+        },
+        {
+          "name": "Anthropic llms.txt",
+          "url": "https://platform.claude.com/llms.txt",
+          "description": "Short llms.txt example for Claude platform documentation."
+        },
+        {
+          "name": "BridgeToAgent llms.txt Validator",
+          "url": "https://www.bridgetoagent.com/tools/llms-txt-validator",
+          "description": "Free validator with source and npm package links."
+        },
+        {
+          "name": "Cloudflare Docs llms.txt",
+          "url": "https://developers.cloudflare.com/llms.txt",
+          "description": "Example llms.txt file from Cloudflare developer documentation."
+        },
+        {
+          "name": "Firecrawl Docs llms.txt",
+          "url": "https://docs.firecrawl.dev/llms.txt",
+          "description": "Example llms.txt file from Firecrawl developer documentation."
+        },
+        {
+          "name": "llms.txt Directory",
+          "url": "https://llmstxt.org/",
+          "description": "Directory and reference site for websites publishing llms.txt files."
+        },
+        {
+          "name": "llms.txt Generator and Validator",
+          "url": "https://llms-txt.io/",
+          "description": "Web tool for generating and validating llms.txt files."
+        },
+        {
+          "name": "llms.txt Validator",
+          "url": "https://llmsvalidator.com/",
+          "description": "Web validator for checking llms.txt file structure and content."
+        },
+        {
+          "name": "llmstxtvalidator.dev",
+          "url": "https://llmstxtvalidator.dev/",
+          "description": "Free online validator for llms.txt and related AI-readable files."
+        },
+        {
+          "name": "Mintlify Docs llms.txt",
+          "url": "https://www.mintlify.com/docs/llms.txt",
+          "description": "Example llms.txt file from Mintlify documentation."
+        },
+        {
+          "name": "Next.js Docs llms.txt",
+          "url": "https://nextjs.org/docs/llms.txt",
+          "description": "Example llms.txt file from Next.js documentation."
+        },
+        {
+          "name": "Stripe Docs llms.txt",
+          "url": "https://docs.stripe.com/llms.txt",
+          "description": "Example llms.txt file from Stripe developer documentation."
+        },
+        {
+          "name": "Vercel Docs llms.txt",
+          "url": "https://vercel.com/llms.txt",
+          "description": "Example llms.txt file from Vercel documentation."
+        }
+      ]
+    },
+    {
+      "id": "schema-and-structured-data-for-ai",
+      "title": "Schema and Structured Data for AI",
+      "resources": [
+        {
+          "name": "Anthropic Crawler Controls",
+          "url": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+          "description": "Anthropic support page for ClaudeBot crawling and robots.txt blocking."
+        },
+        {
+          "name": "Article Schema",
+          "url": "https://schema.org/Article",
+          "description": "Schema.org vocabulary for articles and editorial pages."
+        },
+        {
+          "name": "Breadcrumb Schema",
+          "url": "https://schema.org/BreadcrumbList",
+          "description": "Schema.org vocabulary for breadcrumb navigation."
+        },
+        {
+          "name": "Google Common Crawlers",
+          "url": "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers",
+          "description": "Google documentation for Googlebot, Google-Extended, and related crawlers."
+        },
+        {
+          "name": "Google Generative AI Search Optimization",
+          "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+          "description": "Google Search Central guidance for generative AI features in Google Search."
+        },
+        {
+          "name": "Google Rich Results Test",
+          "url": "https://search.google.com/test/rich-results",
+          "description": "Google tool for testing structured data eligibility for rich results."
+        },
+        {
+          "name": "Google Structured Data Intro",
+          "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data",
+          "description": "Google documentation on structured data for Search."
+        },
+        {
+          "name": "JSON-LD 1.1",
+          "url": "https://www.w3.org/TR/json-ld11/",
+          "description": "W3C recommendation for JSON-LD linked data serialization."
+        },
+        {
+          "name": "Microsoft Bing Webmaster Guidelines",
+          "url": "https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a",
+          "description": "Microsoft guidelines for Bing search, AI-generated experiences, and webmaster controls."
+        },
+        {
+          "name": "Open Graph Protocol",
+          "url": "https://ogp.me/",
+          "description": "Metadata protocol often used alongside structured data for page summaries."
+        },
+        {
+          "name": "OpenAI Crawlers and User Agents",
+          "url": "https://platform.openai.com/docs/bots",
+          "description": "OpenAI documentation for GPTBot, OAI-SearchBot, ChatGPT-User, and related crawlers."
+        },
+        {
+          "name": "Organization Schema",
+          "url": "https://schema.org/Organization",
+          "description": "Schema.org vocabulary for organizations and brands."
+        },
+        {
+          "name": "Perplexity Crawling and Robots",
+          "url": "https://www.perplexity.ai/help-center/en/articles/10354969-how-does-perplexity-follow-robots-txt",
+          "description": "Perplexity help page about robots.txt behavior."
+        },
+        {
+          "name": "Product Schema",
+          "url": "https://schema.org/Product",
+          "description": "Schema.org vocabulary for product pages and offers."
+        },
+        {
+          "name": "Robots Exclusion Protocol",
+          "url": "https://datatracker.ietf.org/doc/html/rfc9309",
+          "description": "IETF specification for robots.txt."
+        },
+        {
+          "name": "schema.org",
+          "url": "https://schema.org/",
+          "description": "Shared vocabulary for structured data on the web."
+        }
+      ]
+    },
+    {
+      "id": "research-papers",
+      "title": "Research Papers",
+      "resources": [
+        {
+          "name": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+          "url": "https://arxiv.org/abs/2603.20213",
+          "description": "Jiaqi Yuan, Jialu Wang, Zihan Wang, Qingyun Sun, Ruijie Wang, Jianxin Li, 2026."
+        },
+        {
+          "name": "AttributionBench: How Hard is Automatic Attribution Evaluation?",
+          "url": "https://arxiv.org/abs/2402.15089",
+          "description": "Yifei Li, Xiang Yue, Zeyi Liao, Huan Sun, 2024."
+        },
+        {
+          "name": "Don't Measure Once: Measuring Visibility in AI Search (GEO)",
+          "url": "https://arxiv.org/abs/2604.07585",
+          "description": "Julius Schulte, Malte Bleeker, Philipp Kaufmann, 2026."
+        },
+        {
+          "name": "Enabling Large Language Models to Generate Text with Citations",
+          "url": "https://arxiv.org/abs/2305.14627",
+          "description": "Tianyu Gao, Howard Yen, Jiatong Yu, Danqi Chen, 2023."
+        },
+        {
+          "name": "From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms",
+          "url": "https://arxiv.org/abs/2604.25707",
+          "description": "Zhang Kai, He Xinyue, Yao Jingang, 2026."
+        },
+        {
+          "name": "From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning",
+          "url": "https://arxiv.org/abs/2604.19516",
+          "description": "Beining Wu, Fuyou Mao, Jiong Lin, Cheng Yang, Jiaxuan Lu, Yifu Guo, Siyu Zhang, Yifan Wu, Ying Huang, Fu Li, 2026."
+        },
+        {
+          "name": "Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth",
+          "url": "https://arxiv.org/abs/2602.02961",
+          "description": "Faye Zhang, Qianyu Cheng, Jasmine Wan, Vishwakarma Singh, Jinfeng Rao, Kofi Boakye, 2026."
+        },
+        {
+          "name": "Generative Engine Optimization: How to Dominate AI Search",
+          "url": "https://arxiv.org/abs/2509.08919",
+          "description": "Mahe Chen, Xiaoxuan Wang, Kaiwen Chen, Nick Koudas, 2025."
+        },
+        {
+          "name": "GEO: Generative Engine Optimization",
+          "url": "https://arxiv.org/abs/2311.09735",
+          "description": "Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, 2023."
+        },
+        {
+          "name": "HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution",
+          "url": "https://arxiv.org/abs/2307.16883",
+          "description": "Ehsan Kamalloo, Aref Jafari, Xinyu Zhang, Nandan Thakur, Jimmy Lin, 2023."
+        },
+        {
+          "name": "How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews",
+          "url": "https://arxiv.org/abs/2604.27790",
+          "description": "Riley Grossman, Songjiang Liu, Michael K. Chen, Mike Smith, Cristian Borcea, Yi Chen, 2026."
+        },
+        {
+          "name": "Quantifying Uncertainty in AI Visibility: A Statistical Framework for Generative Search Measurement",
+          "url": "https://arxiv.org/abs/2603.08924",
+          "description": "Ronald Sielinski, 2026."
+        },
+        {
+          "name": "RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models",
+          "url": "https://arxiv.org/abs/2401.00396",
+          "description": "Cheng Niu, Yuanhao Wu, Juno Zhu, Siliang Xu, Kashun Shum, Randy Zhong, Juntong Song, Tong Zhang, 2024."
+        },
+        {
+          "name": "Role-Augmented Intent-Driven Generative Search Engine Optimization",
+          "url": "https://arxiv.org/abs/2508.11158",
+          "description": "Xiaolu Chen, Haojie Wu, Jie Bao, Zhen Chen, Yong Liao, Hu Huang, 2025."
+        },
+        {
+          "name": "SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization",
+          "url": "https://arxiv.org/abs/2602.12187",
+          "description": "Sunghwan Kim, Wooseok Jeong, Serin Kim, Sangam Lee, Dongha Lee, 2026."
+        },
+        {
+          "name": "Search Engines Post-ChatGPT: How Generative Artificial Intelligence Could Make Search Less Reliable",
+          "url": "https://arxiv.org/abs/2402.11707",
+          "description": "Shahan Ali Memon, Jevin D. West, 2024."
+        },
+        {
+          "name": "The Discovery Gap: How Product Hunt Startups Vanish in LLM Organic Discovery Queries",
+          "url": "https://arxiv.org/abs/2601.00912",
+          "description": "Amit Prakash Sharma, 2026."
+        },
+        {
+          "name": "Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility",
+          "url": "https://arxiv.org/abs/2604.19113",
+          "description": "Zikang Liu, Peilan Xu, 2026."
+        },
+        {
+          "name": "What Gets Cited: Competitive GEO in AI Answer Engines",
+          "url": "https://arxiv.org/abs/2605.25517",
+          "description": "Rahul Vishwakarma, Shushant Kumar, Ratnesh Jamidar, 2026."
+        }
+      ]
+    },
+    {
+      "id": "blog-posts-and-guides",
+      "title": "Blog Posts and Guides",
+      "resources": [
+        {
+          "name": "AI Bot Traffic Questions, Answered",
+          "url": "https://scrunch.com/blog/ai-bot-traffic-questions-answered",
+          "description": "Scrunch guide to identifying and interpreting AI bot traffic."
+        },
+        {
+          "name": "AI Search Guide",
+          "url": "https://scrunch.com/guides/ai-search-guide",
+          "description": "Scrunch guide to AEO and GEO concepts, monitoring, insights, and actions."
+        },
+        {
+          "name": "AI Search Monitoring Questions, Answered",
+          "url": "https://scrunch.com/blog/ai-search-monitoring-questions-answered",
+          "description": "Scrunch guide to prompt tracking, competitive benchmarking, and monitoring workflows."
+        },
+        {
+          "name": "AI Search Visibility for PR",
+          "url": "https://www.shadow.inc/resources/ai-search-visibility-pr",
+          "description": "Shadow guide to brand visibility, PR, and source strategy for AI answer systems."
+        },
+        {
+          "name": "AI Visibility",
+          "url": "https://www.semrush.com/blog/ai-visibility/",
+          "description": "Semrush guide to AI visibility metrics and measurement workflows."
+        },
+        {
+          "name": "AI Visibility in 2026",
+          "url": "https://dupple.com/learn/ai-search-visibility-chatgpt-perplexity",
+          "description": "Dupple guide to AI search visibility, source selection, and measurement."
+        },
+        {
+          "name": "Bing Adds GEO to Official Guidelines",
+          "url": "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/",
+          "description": "Search Engine Journal report on Bing webmaster guidance for AI-generated experiences."
+        },
+        {
+          "name": "Brand Visibility in AI Search",
+          "url": "https://www.digitalapplied.com/blog/brand-visibility-ai-search-branded-queries-seo-moat-2026",
+          "description": "Digital Applied guide to branded queries and AI search visibility."
+        },
+        {
+          "name": "Generative Engine Optimization",
+          "url": "https://ahrefs.com/blog/geo-generative-engine-optimization/",
+          "description": "Ahrefs guide to GEO strategy, metrics, and AI search growth."
+        },
+        {
+          "name": "Generative Engine Optimization (GEO): How to Win in AI Search",
+          "url": "https://backlinko.com/generative-engine-optimization-geo",
+          "description": "Backlinko guide to content, citations, and brand signals for AI search."
+        },
+        {
+          "name": "Generative Engine Optimization (GEO): How to Win AI Mentions",
+          "url": "https://searchengineland.com/guide/what-is-geo",
+          "description": "Search Engine Land guide to GEO strategy, structure, metrics, and visibility."
+        },
+        {
+          "name": "Generative Engine Optimization: What We Know So Far",
+          "url": "https://blog.hubspot.com/marketing/generative-engine-optimization",
+          "description": "HubSpot overview of GEO concepts and content strategy."
+        },
+        {
+          "name": "Good GEO is Good SEO",
+          "url": "https://searchengineland.com/guide/good-geo-is-good-seo",
+          "description": "Search Engine Land article on the relationship between SEO foundations and GEO visibility."
+        },
+        {
+          "name": "Google Publishes Guide to Optimizing for Generative AI Search",
+          "url": "https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/",
+          "description": "Semrush summary of Google's generative AI search guidance."
+        },
+        {
+          "name": "Google's New AI Search Guide Calls AEO and GEO \"Still SEO\"",
+          "url": "https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/",
+          "description": "Search Engine Journal report on Google's AI search guidance."
+        },
+        {
+          "name": "How Customers Are Using AI Search",
+          "url": "https://www.bain.com/insights/how-customers-are-using-ai-search/",
+          "description": "Bain research on consumer and B2B use of AI search."
+        },
+        {
+          "name": "How to Measure AI Search Visibility and Revenue",
+          "url": "https://peec.ai/blog/how-to-measure-ai-search-visibility-and-revenue-the-kpis-that-actually-matter",
+          "description": "Peec AI guide to AI search KPIs and revenue measurement."
+        },
+        {
+          "name": "How to Track Your Brand Visibility in AI Search With Profound",
+          "url": "https://www.tryprofound.com/blog/how-to-track-your-visibility-in-ai-search",
+          "description": "Profound guide to prompt selection, baselines, and AI visibility metrics."
+        },
+        {
+          "name": "How to Win in Generative Engine Optimization",
+          "url": "https://www.searchenginejournal.com/win-generative-engine-optimization-peecai-spa/550612/",
+          "description": "Search Engine Journal article by Peec AI on setting up GEO campaigns."
+        },
+        {
+          "name": "llms.txt and .md Files",
+          "url": "https://peec.ai/blog/llms-txt-md-files-important-ai-visibility-helper-or-hoax",
+          "description": "Peec AI article on llms.txt, Markdown files, and AI visibility claims."
+        },
+        {
+          "name": "Mastering Generative Engine Optimization in 2026",
+          "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+          "description": "Search Engine Land guide to building and measuring a GEO strategy."
+        },
+        {
+          "name": "Microsoft's Guide to Winning in AEO and GEO",
+          "url": "https://www.searchenginejournal.com/a-breakdown-of-microsofts-guide-to-aeo-geo/565651/",
+          "description": "Search Engine Journal breakdown of Microsoft's AI search guidance."
+        },
+        {
+          "name": "Patterns We See in ChatGPT Query Fanouts",
+          "url": "https://peec.ai/blog/patterns-we-see-in-chatgpt-query-fanouts",
+          "description": "Peec AI analysis of how ChatGPT expands prompts into searches."
+        },
+        {
+          "name": "Search Is Changing",
+          "url": "https://www.bain.com/insights/goodbye-clicks-hello-ai-zero-click-search-redefines-marketing/",
+          "description": "Bain article on zero-click AI search and marketing strategy."
+        },
+        {
+          "name": "Self-Promotional Listicles Analysis",
+          "url": "https://peec.ai/blog/self-promotional-listicles-analysis-from-232k-citations",
+          "description": "Peec AI analysis of self-promotional listicles across AI citations."
+        },
+        {
+          "name": "The Competition for Brand Visibility Has Moved to AI Search",
+          "url": "https://martech.org/the-competition-for-brand-visibility-has-moved-to-ai-search/",
+          "description": "MarTech article on AI search visibility metrics and planning."
+        },
+        {
+          "name": "The State of AI Search 2026",
+          "url": "https://www.muratulusoy.de/en/research/state-of-ai-search-2026.html",
+          "description": "Independent report on brand visibility across six generative systems."
+        },
+        {
+          "name": "What Is AI Visibility?",
+          "url": "https://www.similarweb.com/blog/marketing/geo/what-is-ai-visibility/",
+          "description": "Similarweb guide to AI visibility dimensions, measurement, and citation quality."
+        },
+        {
+          "name": "What Does a Good Citation Rate Look Like?",
+          "url": "https://peec.ai/blog/citation-rate-benckmarks-from-over-1-million-citations",
+          "description": "Peec AI benchmark analysis of citation rates across AI search responses."
+        },
+        {
+          "name": "Your AI Search Citation Questions, Answered",
+          "url": "https://scrunch.com/blog/ai-search-citation-questions-answered",
+          "description": "Scrunch guide to AI search citation tracking and citation strategy."
+        }
+      ]
+    },
+    {
+      "id": "podcasts-and-videos",
+      "title": "Podcasts and Videos",
+      "resources": [
+        {
+          "name": "AI + a16z",
+          "url": "https://a16z.com/podcasts/ai-a16z/",
+          "description": "Podcast feed covering AI companies, search, agents, infrastructure, and market shifts."
+        },
+        {
+          "name": "Answer Engine Optimization: The AI Search Podcast",
+          "url": "https://podcasts.apple.com/us/podcast/answer-engine-optimization-aeo-the-ai-search-podcast/id1884409947",
+          "description": "Podcast focused on AEO, GEO, AI search changes, and brand visibility tactics."
+        },
+        {
+          "name": "From SEO to GEO: The New AI Search Playbook",
+          "url": "https://aeoengine.ai/podcast/from-seo-to-geo-the-new-ai-search-playbook",
+          "description": "AEO Engine podcast episode about AI search visibility strategy."
+        },
+        {
+          "name": "Generative Engine Optimization and AI Search Visibility",
+          "url": "https://thedeeepdive.com/podcast/generative-engine-optimization-geo-and-ai-search-visibility/",
+          "description": "Podcast episode introducing GEO and AI search visibility concepts."
+        },
+        {
+          "name": "Generative Engine Optimization: Dominate AI Search",
+          "url": "https://www.colaberry.ai/resources/podcasts/generative-engine-optimization-dominate-ai-search-12th-nov-2025",
+          "description": "Colaberry AI podcast episode about GEO and AI search."
+        },
+        {
+          "name": "Google Search Central YouTube",
+          "url": "https://www.youtube.com/@GoogleSearchCentral",
+          "description": "Official Google Search Central channel with videos on Search, AI features, crawling, and structured data."
+        },
+        {
+          "name": "How to Rank in AI",
+          "url": "https://www.iheart.com/podcast/1333-how-to-rank-in-ai-sqseo-p-313630996/",
+          "description": "Podcast about AI SEO, GEO, and answer engine visibility."
+        },
+        {
+          "name": "Lumar: AI Search, E-E-A-T, and Structured Data",
+          "url": "https://www.lumar.io/blog/podcast/podcast-ai-search-eeat-structured-data-with-dan-taylor-head-of-technical-seo/",
+          "description": "Podcast episode on structured data and AI search."
+        },
+        {
+          "name": "Search Engine Journal Show",
+          "url": "https://podcasts.apple.com/us/podcast/search-engine-journal-show/id922993934",
+          "description": "Search marketing podcast that covers SEO, AI search, paid media, and content topics."
+        },
+        {
+          "name": "SERP's Up",
+          "url": "https://www.wix.com/seo/learn/podcast",
+          "description": "Wix SEO podcast covering search, AI, SERPs, and technical SEO."
+        },
+        {
+          "name": "The Race for AI: Search, National Infrastructure, and On-Device AI",
+          "url": "https://a16z.com/podcast/the-race-for-ai-search-national-infrastructure-on-device-ai/",
+          "description": "a16z podcast episode on AI search and related infrastructure."
+        },
+        {
+          "name": "Whiteboard Friday",
+          "url": "https://moz.com/blog/category/whiteboard-friday",
+          "description": "Moz video series with recurring episodes on SEO, AI search, and content strategy."
+        }
+      ]
+    },
+    {
+      "id": "newsletters",
+      "title": "Newsletters",
+      "resources": [
+        {
+          "name": "Ahrefs Digest",
+          "url": "https://ahrefs.com/newsletter",
+          "description": "Newsletter from Ahrefs covering SEO, AI search, content, and analytics research."
+        },
+        {
+          "name": "Growth Memo",
+          "url": "https://www.growth-memo.com/",
+          "description": "Kevin Indig's newsletter on organic growth, search, and AI-mediated discovery."
+        },
+        {
+          "name": "Marketing Brew",
+          "url": "https://www.marketingbrew.com/subscribe",
+          "description": "Newsletter covering marketing strategy, media, search, and AI trends."
+        },
+        {
+          "name": "Search Engine Land Newsletter",
+          "url": "https://searchengineland.com/newsletter",
+          "description": "Newsletter covering search marketing, SEO, paid search, and AI search updates."
+        },
+        {
+          "name": "Search Engine Roundtable",
+          "url": "https://www.seroundtable.com/",
+          "description": "Daily search news site with coverage of Google, Bing, and AI search changes."
+        },
+        {
+          "name": "SEOFOMO",
+          "url": "https://seofomo.co/",
+          "description": "Newsletter for SEO news, resources, jobs, and events."
+        },
+        {
+          "name": "The Batch",
+          "url": "https://www.deeplearning.ai/the-batch/",
+          "description": "AI newsletter from DeepLearning.AI covering model, search, and agent developments."
+        },
+        {
+          "name": "The Keyword",
+          "url": "https://blog.google/",
+          "description": "Google blog covering Search, AI Overviews, Gemini, and product updates."
+        },
+        {
+          "name": "TL;DR Marketing",
+          "url": "https://tldrmarketing.com/",
+          "description": "Search and digital marketing newsletter with SEO, content, and platform updates."
+        }
+      ]
+    },
+    {
+      "id": "communities",
+      "title": "Communities",
+      "resources": [
+        {
+          "name": "/r/SEO",
+          "url": "https://www.reddit.com/r/SEO/",
+          "description": "Reddit community for SEO strategy, technical SEO, content, and AI search discussions."
+        },
+        {
+          "name": "/r/bigseo",
+          "url": "https://www.reddit.com/r/bigseo/",
+          "description": "Reddit community for experienced SEO practitioners and search industry news."
+        },
+        {
+          "name": "/r/content_marketing",
+          "url": "https://www.reddit.com/r/content_marketing/",
+          "description": "Reddit community for content marketing, distribution, and measurement."
+        },
+        {
+          "name": "/r/GEO_optimization",
+          "url": "https://www.reddit.com/r/GEO_optimization/",
+          "description": "Reddit community focused on GEO and AI search optimization."
+        },
+        {
+          "name": "/r/marketing",
+          "url": "https://www.reddit.com/r/marketing/",
+          "description": "Reddit community for marketing strategy, analytics, and channel shifts."
+        },
+        {
+          "name": "/r/SaaS",
+          "url": "https://www.reddit.com/r/SaaS/",
+          "description": "Reddit community where founders discuss AI visibility, discovery, and go-to-market tactics."
+        },
+        {
+          "name": "/r/TechSEO",
+          "url": "https://www.reddit.com/r/TechSEO/",
+          "description": "Reddit community for technical SEO, crawling, rendering, and structured data."
+        },
+        {
+          "name": "Indie Hackers",
+          "url": "https://www.indiehackers.com/",
+          "description": "Founder community where AI search, product discovery, and distribution tactics are discussed."
+        },
+        {
+          "name": "Online Geniuses",
+          "url": "https://onlinegeniuses.com/",
+          "description": "Digital marketing Slack community with SEO, content, and analytics channels."
+        },
+        {
+          "name": "Product Marketing Alliance",
+          "url": "https://www.productmarketingalliance.com/join-slack/",
+          "description": "Product marketing community with positioning, category, and go-to-market discussions."
+        },
+        {
+          "name": "Traffic Think Tank",
+          "url": "https://trafficthinktank.com/",
+          "description": "SEO community with training, Slack discussion, and practitioner resources."
+        },
+        {
+          "name": "Women in Tech SEO",
+          "url": "https://www.womenintechseo.com/",
+          "description": "Community for technical SEO practitioners with events, resources, and peer discussion."
+        }
+      ]
+    },
+    {
+      "id": "conferences-and-events",
+      "title": "Conferences and Events",
+      "resources": [
+        {
+          "name": "Ahrefs Evolve",
+          "url": "https://ahrefs.com/evolve",
+          "description": "Ahrefs conference for SEO, content, analytics, and search visibility practitioners."
+        },
+        {
+          "name": "brightonSEO",
+          "url": "https://brightonseo.com/",
+          "description": "Search marketing conference with sessions on SEO, content, technical search, and AI search."
+        },
+        {
+          "name": "Chiang Mai SEO Conference",
+          "url": "https://chiangmaiseoconference.com/",
+          "description": "SEO conference focused on search strategy, affiliate SEO, and digital growth."
+        },
+        {
+          "name": "Content Marketing World",
+          "url": "https://www.contentmarketingworld.com/",
+          "description": "Content marketing conference covering editorial strategy, distribution, measurement, and AI."
+        },
+        {
+          "name": "Digital Marketing World Forum",
+          "url": "https://www.digitalmarketing-conference.com/",
+          "description": "Digital marketing event series covering SEO, content, data, and AI topics."
+        },
+        {
+          "name": "INBOUND",
+          "url": "https://www.inbound.com/",
+          "description": "HubSpot event covering marketing, sales, customer growth, AI, and content."
+        },
+        {
+          "name": "MozCon",
+          "url": "https://moz.com/mozcon",
+          "description": "Search marketing conference covering SEO, analytics, content, and emerging search behavior."
+        },
+        {
+          "name": "Pubcon",
+          "url": "https://www.pubcon.com/",
+          "description": "Search and digital marketing conference with SEO, PPC, social, and AI sessions."
+        },
+        {
+          "name": "Search Central Live",
+          "url": "https://developers.google.com/search/events/search-central-live",
+          "description": "Google event series for Search documentation, crawling, indexing, and site visibility."
+        },
+        {
+          "name": "Search Marketing Expo",
+          "url": "https://searchengineland.com/smx",
+          "description": "SMX event series for SEO, paid search, analytics, and AI search topics."
+        },
+        {
+          "name": "SEO Week",
+          "url": "https://www.seoweek.com/",
+          "description": "iPullRank event focused on search, technical SEO, content, and AI-era visibility."
+        },
+        {
+          "name": "State of Search",
+          "url": "https://www.stateofsearch.org/",
+          "description": "Search marketing conference for SEO, PPC, local search, analytics, and content."
+        }
+      ]
+    }
+  ]
+}

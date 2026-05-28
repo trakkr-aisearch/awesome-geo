@@ -4,6 +4,10 @@
 
 Generative Engine Optimization (GEO) is still an early field, so this list prioritizes live resources, neutral descriptions, and sources that can be checked by contributors.
 
+Maintained by Trakkr, an AI visibility platform. Trakkr is listed first in commercial tools because it maintains this repository; remaining commercial entries are alphabetical.
+
+Machine-readable index: [`resources.json`](resources.json).
+
 ## Contents
 
 - [What is GEO](#what-is-geo)
@@ -26,8 +30,6 @@ Generative Engine Optimization (GEO) is still an early field, so this list prior
 Generative Engine Optimization (GEO), sometimes called Answer Engine Optimization (AEO), is the practice of improving whether a brand, source, product, or entity is mentioned, cited, and accurately represented by AI answer systems such as ChatGPT, Perplexity, Gemini, Claude, Copilot, and Google AI Overviews. It overlaps with SEO, but shifts measurement from ranked pages to cited sources, answer inclusion, entity understanding, and share of voice inside generated responses. For a longer overview, read [Generative engine optimization](https://en.wikipedia.org/wiki/Generative_engine_optimization).
 
 ## Tools (Commercial)
-
-Trakkr is listed first as maintainer; remaining entries are alphabetical.
 
 - [Trakkr](https://trakkr.ai/) - AI visibility platform; maintains the AI 500 public ranking.
 - [AEO Engine](https://aeoengine.ai/) - Platform for tracking and improving brand visibility across AI answer engines.
@@ -86,7 +88,7 @@ Trakkr is listed first as maintainer; remaining entries are alphabetical.
 
 ## Datasets and Benchmarks
 
-- [AI 500](https://github.com/trakkr-aisearch/ai-500) - Public ranking dataset of brands measured across AI visibility signals.
+- [AI 500](https://github.com/trakkr-aisearch/ai-500) - Public monthly dataset of the top 500 brands in Trakkr global AI visibility rankings. Latest JSON: [raw snapshot](https://raw.githubusercontent.com/trakkr-aisearch/ai-500/main/latest.json). Public feed: [api.trakkr.ai/public/rankings/global](https://api.trakkr.ai/public/rankings/global?limit=500).
 - [ALCE](https://github.com/princeton-nlp/ALCE) - Benchmark and evaluation toolkit for LLM text generation with citations.
 - [ASQA](https://github.com/google-research/language/tree/master/language/asqa) - Ambiguous question answering dataset used in attributed and citation-aware answer generation research.
 - [AttributionBench](https://github.com/OSU-NLP-Group/AttributionBench) - Benchmark for evaluating automatic attribution methods in generative search.
@@ -298,4 +300,4 @@ Trakkr is listed first as maintainer; remaining entries are alphabetical.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Released under [CC0 1.0 Universal](LICENSE). Maintained by Trakkr. AI 500 updated daily at [trakkr.ai/rankings](https://trakkr.ai/rankings).
+Released under [CC0 1.0 Universal](LICENSE). Maintained by Trakkr. AI 500 live data is available at [api.trakkr.ai/public/rankings/global](https://api.trakkr.ai/public/rankings/global?limit=500).
