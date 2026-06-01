@@ -27,6 +27,7 @@ jobs:
             --verbose
             --no-progress
             --accept 200,202,204,206,301,302,403,405,429
+            --exclude '^https://www\.seroundtable\.com/$'
             README.md CONTRIBUTING.md
           fail: true
           format: markdown
