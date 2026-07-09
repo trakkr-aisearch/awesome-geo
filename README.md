@@ -76,6 +76,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [AEOProof AEO Checker](https://aeoproof.com/tools/ai-search-visibility-checker) - Free scan for AI-search readiness across structure, entities, schema, and trust signals.
 - [AeoScan](https://aeoscan.ai/) - Free checker for testing a domain and keyword across ChatGPT, Claude, Gemini, and Perplexity.
 - [AIclicks GEO Visibility Checker](https://aiclicks.io/tools/free-geo-visibility-checker) - Free GEO audit for checking brand and domain visibility signals.
+- [AnswerLens](https://app.sfdj.net/) - Free public-evidence scan for B2B SaaS sites that checks crawlable pages, `llms.txt`, pricing, comparison, and proof pages.
 - [Forzeo AI Visibility Checker](https://forzeo.com/tools/ai-visibility-checker) - Free checker for crawler access, structured data, llms.txt, and AI readability.
 - [GrowRanko AI Search Visibility Checker](https://growranko.com/tools/ai-search-visibility) - Free URL checker for AI crawler access, llms.txt, schema, and content structure.
 - [Loamly AI Visibility Checker](https://www.loamly.ai/check) - Free report that checks brand visibility across ChatGPT, Claude, Perplexity, and Gemini.
