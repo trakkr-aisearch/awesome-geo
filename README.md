@@ -51,6 +51,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [Lumar AI Visibility](https://www.lumar.io/ai-visibility-tracking-lumar/) - Lumar product for tracking AI brand visibility, citations, sentiment, and technical content gaps.
 - [Meev](https://meev.ai/) - AI visibility monitoring platform for brand, competitor, and citation tracking.
 - [Otterly.AI](https://otterly.ai/) - AI search monitoring tool for brand mentions and website citations across major answer engines.
+- [Parse](https://parse.gl/) - AI brand visibility platform that tracks how brands are mentioned and cited in ChatGPT and Google AI Overviews, with competitor benchmarks and citation diagnostics.
 - [Peec AI](https://peec.ai/) - AI search analytics platform for visibility, sentiment, position, and source tracking.
 - [Profound](https://www.tryprofound.com/) - Platform for measuring and improving brand visibility in AI-generated answers.
 - [Rankscale](https://rankscale.ai/) - AI visibility platform for prompt tracking, source monitoring, and competitor comparison.
