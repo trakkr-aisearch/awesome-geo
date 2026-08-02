@@ -221,6 +221,11 @@
           "description": "Free GEO audit for checking brand and domain visibility signals."
         },
         {
+          "name": "AnswerLens",
+          "url": "https://app.sfdj.net/",
+          "description": "Free public-evidence scan for B2B SaaS sites that checks crawlable pages, `llms.txt`, pricing, comparison, and proof pages."
+        },
+        {
           "name": "Forzeo AI Visibility Checker",
           "url": "https://forzeo.com/tools/ai-visibility-checker",
           "description": "Free checker for crawler access, structured data, llms.txt, and AI readability."
