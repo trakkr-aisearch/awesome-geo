@@ -221,6 +221,11 @@
           "description": "Free GEO audit for checking brand and domain visibility signals."
         },
         {
+          "name": "Can AI Bots Read My Site?",
+          "url": "https://mydentify.com/tools/ai-crawler-access-checker",
+          "description": "Free checker that tests named AI crawler access, robots.txt rules, and page-level directives for a public URL."
+        },
+        {
           "name": "Forzeo AI Visibility Checker",
           "url": "https://forzeo.com/tools/ai-visibility-checker",
           "description": "Free checker for crawler access, structured data, llms.txt, and AI readability."
