@@ -68,6 +68,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [OneGlanse](https://github.com/aryamantodkar/oneglanse) - Self-hostable AI visibility tracker for ChatGPT, Gemini, Claude, Perplexity, and Google AI Overview.
 - [OpenCite](https://github.com/smartaces/opencite) - Open-source project for logging and analyzing citations returned by LLMs.
 - [Prompt Clarity](https://github.com/promptclarity/promptclarity) - Open-source tool for tracking brand visibility in LLM responses with user-supplied API keys.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, and AEO; audits sites and pulls live Search Console and GA4 data via MCP.
 - [Schema Markup Validator](https://validator.schema.org/) - Free validator for checking schema.org structured data.
 - [TechnicalSEO Robots.txt Tester](https://technicalseo.com/tools/robots-txt/) - Free browser tool for testing robots.txt rules against user agents.
 
