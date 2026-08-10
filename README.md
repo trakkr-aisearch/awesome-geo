@@ -40,6 +40,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [AthenaHQ](https://athenahq.ai/) - Platform for monitoring, diagnosing, and acting on brand visibility across AI search systems.
 - [Bluefish AI](https://www.bluefishai.com/) - Platform for measuring brand presence and recommendations in AI-generated answers.
 - [Brandlight](https://www.brandlight.ai/) - AI visibility platform for brand monitoring, competitor comparison, and response analysis.
+- [Corank](https://corank.ai/) - AI visibility platform for auditing brand mentions and citations across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews.
 - [Evertune](https://www.evertune.ai/) - Platform for AI brand monitoring, prompt analysis, and GEO workflows.
 - [Foglift](https://www.foglift.com/) - AI search visibility platform for monitoring brand mentions and citations.
 - [Gauge](https://www.withgauge.com/) - AI search analytics platform for tracking brand and competitor visibility.
