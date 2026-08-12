@@ -109,6 +109,11 @@
           "description": "AI visibility monitoring platform for brand, competitor, and citation tracking."
         },
         {
+          "name": "Mentioned",
+          "url": "https://mentioned.to/",
+          "description": "Managed Reddit service that publishes posts and comments from operator-run accounts and reports share of voice in Reddit results."
+        },
+        {
           "name": "Otterly.AI",
           "url": "https://otterly.ai/",
           "description": "AI search monitoring tool for brand mentions and website citations across major answer engines."
