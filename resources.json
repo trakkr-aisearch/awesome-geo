@@ -261,6 +261,11 @@
           "description": "Free page audit for AI citation readiness, structured data, and crawler access."
         },
         {
+          "name": "TrackAIMentions",
+          "url": "https://trackaimentions.com/ai-visibility-checker",
+          "description": "Free report-first checker for whether ChatGPT-style answers and a Perplexity sample organically recommend a brand or its competitors."
+        },
+        {
           "name": "Visiblo",
           "url": "https://visiblo.io/",
           "description": "Free AI visibility checker and GEO score tool."
