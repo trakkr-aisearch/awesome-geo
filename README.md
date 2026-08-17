@@ -84,6 +84,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [SearchScore](https://searchscore.io/) - Free AI search, SEO, and conversion audit for a domain.
 - [Semrush AI Search Visibility Checker](https://www.semrush.com/free-tools/ai-search-visibility-checker/) - Free checker for brand visibility across ChatGPT, Gemini, and Google AI surfaces.
 - [SiteTest AI Visibility Checker](https://sitetest.ai/) - Free page audit for AI citation readiness, structured data, and crawler access.
+- [TrackAIMentions](https://trackaimentions.com/ai-visibility-checker) - Free report-first checker for whether ChatGPT-style answers and a Perplexity sample organically recommend a brand or its competitors.
 - [Visiblo](https://visiblo.io/) - Free AI visibility checker and GEO score tool.
 
 ## Datasets and Benchmarks
