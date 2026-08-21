@@ -73,6 +73,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 
 ## Free Checkers
 
+- [askchat.studio Free Check](https://askchat.studio/) - Free check that shows which sources an AI answer cites for a business in a given city, not only whether the brand is mentioned.
 - [AEOProof AEO Checker](https://aeoproof.com/tools/ai-search-visibility-checker) - Free scan for AI-search readiness across structure, entities, schema, and trust signals.
 - [AeoScan](https://aeoscan.ai/) - Free checker for testing a domain and keyword across ChatGPT, Claude, Gemini, and Perplexity.
 - [AIclicks GEO Visibility Checker](https://aiclicks.io/tools/free-geo-visibility-checker) - Free GEO audit for checking brand and domain visibility signals.
