@@ -70,7 +70,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [Prompt Clarity](https://github.com/promptclarity/promptclarity) - Open-source tool for tracking brand visibility in LLM responses with user-supplied API keys.
 - [Schema Markup Validator](https://validator.schema.org/) - Free validator for checking schema.org structured data.
 - [TechnicalSEO Robots.txt Tester](https://technicalseo.com/tools/robots-txt/) - Free browser tool for testing robots.txt rules against user agents.
-
+- [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Open-source Python CLI with a 16-dimension GEO score for auditing site AI-search readiness, plus keyword research and technical site audit tools.
 ## Free Checkers
 
 - [AEOProof AEO Checker](https://aeoproof.com/tools/ai-search-visibility-checker) - Free scan for AI-search readiness across structure, entities, schema, and trust signals.
