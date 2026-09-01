@@ -52,6 +52,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [Meev](https://meev.ai/) - AI visibility monitoring platform for brand, competitor, and citation tracking.
 - [Otterly.AI](https://otterly.ai/) - AI search monitoring tool for brand mentions and website citations across major answer engines.
 - [Peec AI](https://peec.ai/) - AI search analytics platform for visibility, sentiment, position, and source tracking.
+- [peekr](https://trypeekr.com/) - AI visibility tracking with raw response storage and three samples per prompt for ChatGPT and Gemini.
 - [Profound](https://www.tryprofound.com/) - Platform for measuring and improving brand visibility in AI-generated answers.
 - [Rankscale](https://rankscale.ai/) - AI visibility platform for prompt tracking, source monitoring, and competitor comparison.
 - [Scrunch](https://scrunch.com/) - AI customer experience platform with monitoring, citation, agent traffic, and AI search insight features.
