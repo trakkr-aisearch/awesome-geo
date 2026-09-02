@@ -42,6 +42,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [Brandlight](https://www.brandlight.ai/) - AI visibility platform for brand monitoring, competitor comparison, and response analysis.
 - [Evertune](https://www.evertune.ai/) - Platform for AI brand monitoring, prompt analysis, and GEO workflows.
 - [Foglift](https://www.foglift.com/) - AI search visibility platform for monitoring brand mentions and citations.
+- [Flowtrace](https://flowtrace.cn/en/product/website-growth-audit/) - Website audit and AI visibility monitoring platform that renders public pages in Chromium, checks SEO and GEO signals, runs neutral questions against ChatGPT and Gemini, and stores response-level evidence.
 - [Gauge](https://www.withgauge.com/) - AI search analytics platform for tracking brand and competitor visibility.
 - [GetMint](https://getmint.ai/) - Platform for monitoring and improving how brands appear in AI search responses.
 - [Goodie](https://higoodie.com/) - AI search visibility platform for answer monitoring and action planning.
