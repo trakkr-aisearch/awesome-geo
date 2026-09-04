@@ -50,6 +50,7 @@ Generative Engine Optimization (GEO), sometimes called Answer Engine Optimizatio
 - [LLMrefs](https://llmrefs.com/) - Tool for monitoring which pages and domains LLMs reference across prompts.
 - [Lumar AI Visibility](https://www.lumar.io/ai-visibility-tracking-lumar/) - Lumar product for tracking AI brand visibility, citations, sentiment, and technical content gaps.
 - [Meev](https://meev.ai/) - AI visibility monitoring platform for brand, competitor, and citation tracking.
+- [Mentioned](https://mentioned.to/) - Managed Reddit service that publishes posts and comments from operator-run accounts and reports share of voice in Reddit results.
 - [Otterly.AI](https://otterly.ai/) - AI search monitoring tool for brand mentions and website citations across major answer engines.
 - [Peec AI](https://peec.ai/) - AI search analytics platform for visibility, sentiment, position, and source tracking.
 - [Profound](https://www.tryprofound.com/) - Platform for measuring and improving brand visibility in AI-generated answers.
