@@ -124,6 +124,7 @@ A technical audit, a sampled AI answer, and a visibility score measure different
 - [Scrunch Brand Audit](https://scrunch.com/brand-audit) - Free brand audit for AI visibility metrics and competitive analysis.
 - [SearchScore](https://searchscore.io/) - Free AI search, SEO, and conversion audit for a domain.
 - [Semrush AI Search Visibility Checker](https://www.semrush.com/free-tools/ai-search-visibility-checker/) - Free checker for brand visibility across ChatGPT, Gemini, and Google AI surfaces.
+- [ShiftPress AI Visibility Check](https://shiftpress.ai/geo-check) - Free URL audit of public AI-readiness signals (robots.txt, llms.txt, schema, crawler access, and crawlable text). No account required for the check.
 - [SiteTest AI Visibility Checker](https://sitetest.ai/) - Free page audit for AI citation readiness, structured data, and crawler access.
 
 ## Datasets and Benchmarks
