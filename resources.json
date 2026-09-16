@@ -292,6 +292,11 @@
           "description": "Free checker for brand visibility across ChatGPT, Gemini, and Google AI surfaces."
         },
         {
+          "name": "ShiftPress AI Visibility Check",
+          "url": "https://shiftpress.ai/geo-check",
+          "description": "Free URL audit of public AI-readiness signals (robots.txt, llms.txt, schema, crawler access, and crawlable text). No account required for the check."
+        },
+        {
           "name": "SiteTest AI Visibility Checker",
           "url": "https://sitetest.ai/",
           "description": "Free page audit for AI citation readiness, structured data, and crawler access."
