@@ -100,6 +100,8 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 
 ## Tools (Open Source and Free)
 
+
+- [AEOrank](https://github.com/vinpatel/aeorank) — MIT CLI/CI toolkit that scores AI crawler access + extractability (**12 dimensions** on `aeorank-cli@0.1.1`) and writes **8** fix files (`llms.txt`, schema, robots-patch, …). GitHub Action can fail PRs when GPTBot is disallowed. Not a citation monitor.
 - [Ansvisor](https://github.com/ansvisor/ansvisor) - Open-source answer engine visibility tracker for monitoring brand mentions across prompts.
 - [BridgeToAgent llms.txt Validator](https://github.com/BridgeToAgent/llms-txt-validator) - Open-source validator for checking llms.txt files from the command line or web.
 - [GeoStorm](https://github.com/geostorm-ai/geostorm) - Open-source GEO tracker for running prompts and analyzing AI answer visibility.
