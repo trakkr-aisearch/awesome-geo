@@ -92,6 +92,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Peec AI](https://peec.ai/) - AI search analytics platform for visibility, sentiment, position, and source tracking.
 - [Profound](https://www.tryprofound.com/) - Platform for measuring and improving brand visibility in AI-generated answers.
 - [Rankscale](https://rankscale.ai/) - AI visibility platform for prompt tracking, source monitoring, and competitor comparison.
+- [Screpy](https://screpy.com/feature/ai-visibility/) - Monitors selected AI-search prompts with answer-level citations, source URLs, sentiment, and competitor comparisons.
 - [Scrunch](https://scrunch.com/) - AI customer experience platform with monitoring, citation, agent traffic, and AI search insight features.
 - [Semrush AI Visibility](https://www.semrush.com/features/) - Semrush toolkit for tracking AI visibility, prompts, citations, and related SEO metrics.
 - [Similarweb AI Brand Visibility](https://aisearch.similarweb.com/ai-brand-visibility/) - Similarweb tool for checking how brands appear in AI-generated answers.
