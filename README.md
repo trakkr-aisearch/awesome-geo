@@ -209,6 +209,7 @@ A proposed format for making selected content available to LLM tools. A valid fi
 - [AI Search Monitoring Questions, Answered](https://scrunch.com/blog/ai-search-monitoring-questions-answered) - Scrunch guide to prompt tracking, competitive benchmarking, and monitoring workflows.
 - [AI Search Visibility for PR](https://www.shadow.inc/resources/ai-search-visibility-pr) - Shadow guide to brand visibility, PR, and source strategy for AI answer systems.
 - [AI Visibility](https://www.semrush.com/blog/ai-visibility/) - Semrush guide to AI visibility metrics and measurement workflows.
+- [AI Visibility Factors](https://www.aivisibilityfactors.com/) - Evidence-based catalog of AI visibility factors with separate impact, proof, and consensus assessments and linked sources.
 - [AI Visibility in 2026](https://dupple.com/learn/ai-search-visibility-chatgpt-perplexity) - Dupple guide to AI search visibility, source selection, and measurement.
 - [Bing Adds GEO to Official Guidelines](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/) - Search Engine Journal report on Bing webmaster guidance for AI-generated experiences.
 - [Brand Visibility in AI Search](https://www.digitalapplied.com/blog/brand-visibility-ai-search-branded-queries-seo-moat-2026) - Digital Applied guide to branded queries and AI search visibility.
