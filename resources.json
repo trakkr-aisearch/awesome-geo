@@ -90,6 +90,11 @@
           "description": "Platform for measuring brand presence and recommendations in AI-generated answers."
         },
         {
+          "name": "BotView",
+          "url": "https://botview.app/",
+          "description": "AI visibility tool combining page visibility scores, AI crawler access and human-versus-crawler render checks, and OpenAI answer checks for mentions, citations, and competing tools; scans are free, answer checks are paid."
+        },
+        {
           "name": "Brandlight",
           "url": "https://www.brandlight.ai/",
           "description": "AI visibility platform for brand monitoring, competitor comparison, and response analysis."

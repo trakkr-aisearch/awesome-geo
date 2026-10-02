@@ -78,6 +78,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Alhena AI Visibility](https://alhena.ai/products/ai-visibility) - Ecommerce-oriented tool for measuring product and brand visibility in AI search.
 - [AthenaHQ](https://athenahq.ai/) - Platform for monitoring, diagnosing, and acting on brand visibility across AI search systems.
 - [Bluefish AI](https://www.bluefishai.com/) - Platform for measuring brand presence and recommendations in AI-generated answers.
+- [BotView](https://botview.app/) - AI visibility tool combining page visibility scores, AI crawler access and human-versus-crawler render checks, and OpenAI answer checks for mentions, citations, and competing tools; scans are free, answer checks are paid.
 - [Brandlight](https://www.brandlight.ai/) - AI visibility platform for brand monitoring, competitor comparison, and response analysis.
 - [Evertune](https://www.evertune.ai/) - Platform for AI brand monitoring, prompt analysis, and GEO workflows.
 - [Gauge](https://www.withgauge.com/) - AI search analytics platform for tracking brand and competitor visibility.
