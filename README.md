@@ -212,6 +212,7 @@ A proposed format for making selected content available to LLM tools. A valid fi
 - [AI Visibility in 2026](https://dupple.com/learn/ai-search-visibility-chatgpt-perplexity) - Dupple guide to AI search visibility, source selection, and measurement.
 - [Bing Adds GEO to Official Guidelines](https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/) - Search Engine Journal report on Bing webmaster guidance for AI-generated experiences.
 - [Brand Visibility in AI Search](https://www.digitalapplied.com/blog/brand-visibility-ai-search-branded-queries-seo-moat-2026) - Digital Applied guide to branded queries and AI search visibility.
+- [Do ChatGPT and Gemini Use the Same Sources?](https://askchat.studio/blog/chatgpt-gemini-zero-shared-sources) - askChat Studio analysis of how little ChatGPT and Gemini overlap in the sources they cite for the same eight owner questions.
 - [Generative Engine Optimization](https://ahrefs.com/blog/geo-generative-engine-optimization/) - Ahrefs guide to GEO strategy, metrics, and AI search growth.
 - [Generative Engine Optimization (GEO): How to Win in AI Search](https://backlinko.com/generative-engine-optimization-geo) - Backlinko guide to content, citations, and brand signals for AI search.
 - [Generative Engine Optimization (GEO): How to Win AI Mentions](https://searchengineland.com/guide/what-is-geo) - Search Engine Land guide to GEO strategy, structure, metrics, and visibility.

@@ -677,6 +677,11 @@
           "description": "Digital Applied guide to branded queries and AI search visibility."
         },
         {
+          "name": "Do ChatGPT and Gemini Use the Same Sources?",
+          "url": "https://askchat.studio/blog/chatgpt-gemini-zero-shared-sources",
+          "description": "askChat Studio analysis of how little ChatGPT and Gemini overlap in the sources they cite for the same eight owner questions."
+        },
+        {
           "name": "Generative Engine Optimization",
           "url": "https://ahrefs.com/blog/geo-generative-engine-optimization/",
           "description": "Ahrefs guide to GEO strategy, metrics, and AI search growth."
