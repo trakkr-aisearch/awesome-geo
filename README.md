@@ -135,6 +135,7 @@ A technical audit, a sampled AI answer, and a visibility score measure different
 - [BEIR](https://github.com/beir-cellar/beir) - Heterogeneous information retrieval benchmark used for retrieval and ranking evaluation.
 - [HAGRID](https://github.com/project-miracl/hagrid) - Dataset for generative information seeking with source attribution.
 - [HotpotQA](https://hotpotqa.github.io/) - Multi-hop question answering benchmark for retrieval and reasoning evaluation.
+- [IndicGEO](https://github.com/ifham001/IndicGEO) - Depra AI-funded English/Hinglish AI-shopping dataset with 959 responses to 10 skincare/fashion prompts from August and October 2026, using ChatGPT/Gemini consumer web apps and Perplexity Sonar API; limited to two India-focused snapshots.
 - [KILT](https://github.com/facebookresearch/KILT) - Knowledge-intensive language task benchmark for retrieval-grounded NLP systems.
 - [MIRACL](https://project-miracl.github.io/) - Multilingual information retrieval benchmark that underpins HAGRID.
 - [MS MARCO](https://microsoft.github.io/msmarco/) - Large-scale Microsoft dataset for passage ranking and question answering.

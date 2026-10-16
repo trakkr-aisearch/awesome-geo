@@ -338,6 +338,11 @@
           "description": "Multi-hop question answering benchmark for retrieval and reasoning evaluation."
         },
         {
+          "name": "IndicGEO",
+          "url": "https://github.com/ifham001/IndicGEO",
+          "description": "Depra AI-funded English/Hinglish AI-shopping dataset with 959 responses to 10 skincare/fashion prompts from August and October 2026, using ChatGPT/Gemini consumer web apps and Perplexity Sonar API; limited to two India-focused snapshots."
+        },
+        {
           "name": "KILT",
           "url": "https://github.com/facebookresearch/KILT",
           "description": "Knowledge-intensive language task benchmark for retrieval-grounded NLP systems."
