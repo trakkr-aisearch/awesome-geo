@@ -125,6 +125,7 @@ A technical audit, a sampled AI answer, and a visibility score measure different
 - [SearchScore](https://searchscore.io/) - Free AI search, SEO, and conversion audit for a domain.
 - [Semrush AI Search Visibility Checker](https://www.semrush.com/free-tools/ai-search-visibility-checker/) - Free checker for brand visibility across ChatGPT, Gemini, and Google AI surfaces.
 - [SiteTest AI Visibility Checker](https://sitetest.ai/) - Free page audit for AI citation readiness, structured data, and crawler access.
+- [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free, no-signup check of whether ChatGPT and Perplexity cite a business for its buyer questions; returns the competitors cited instead and the sources behind the answers, with a prompt-panel generator for repeated measurement.
 
 ## Datasets and Benchmarks
 
