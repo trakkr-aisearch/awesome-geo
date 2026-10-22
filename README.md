@@ -102,6 +102,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 
 - [Ansvisor](https://github.com/ansvisor/ansvisor) - Open-source answer engine visibility tracker for monitoring brand mentions across prompts.
 - [BridgeToAgent llms.txt Validator](https://github.com/BridgeToAgent/llms-txt-validator) - Open-source validator for checking llms.txt files from the command line or web.
+- [CiteLadder](https://github.com/abhij1306/CiteLadder) - Open-source (AGPL-3.0), self-hostable tracker of how ChatGPT, Gemini, Claude, and Google AI Overviews answer buyer questions, with the brands named and pages cited. Includes a remote MCP server. Free 7-day trial on the hosted version; self-hosting needs your own API keys.
 - [GeoStorm](https://github.com/geostorm-ai/geostorm) - Open-source GEO tracker for running prompts and analyzing AI answer visibility.
 - [OneGlanse](https://github.com/aryamantodkar/oneglanse) - Self-hostable AI visibility tracker for ChatGPT, Gemini, Claude, Perplexity, and Google AI Overview.
 - [OpenCite](https://github.com/smartaces/opencite) - Open-source project for logging and analyzing citations returned by LLMs.
