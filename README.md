@@ -79,6 +79,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [AthenaHQ](https://athenahq.ai/) - Platform for monitoring, diagnosing, and acting on brand visibility across AI search systems.
 - [Bluefish AI](https://www.bluefishai.com/) - Platform for measuring brand presence and recommendations in AI-generated answers.
 - [Brandlight](https://www.brandlight.ai/) - AI visibility platform for brand monitoring, competitor comparison, and response analysis.
+- [CrakSEO AI Visibility](https://crakseo.com/tools/ai-visibility) - Pay-per-check MCP server and API that lets AI agents check brand mentions in ChatGPT and Perplexity and the sources Google AI Overviews cite, with no subscription.
 - [Evertune](https://www.evertune.ai/) - Platform for AI brand monitoring, prompt analysis, and GEO workflows.
 - [Gauge](https://www.withgauge.com/) - AI search analytics platform for tracking brand and competitor visibility.
 - [GetMint](https://getmint.ai/) - Platform for monitoring and improving how brands appear in AI search responses.
