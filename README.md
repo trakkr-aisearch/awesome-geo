@@ -73,6 +73,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Trakkr](https://trakkr.ai/) - AI visibility platform; maintains the AI 500 public ranking.
 - [AEO Engine](https://aeoengine.ai/) - Platform for tracking and improving brand visibility across AI answer engines.
 - [AEOVisor](https://www.aeovisor.com/) - Platform for AEO audits, monitoring, and optimization workflows.
+- [AgentSEO](https://www.agentseo.dev/docs/api-reference/visibility) - REST API for SEO and answer engine optimization (AEO) workflows that returns Google AI Overview detection, candidate-source evidence, and optional target-domain coverage for a query.
 - [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) - Ahrefs product for tracking brand mentions, citations, and competitors across AI search surfaces.
 - [AirOps](https://www.airops.com/) - Content operations platform with workflows for AI search and SEO teams.
 - [Alhena AI Visibility](https://alhena.ai/products/ai-visibility) - Ecommerce-oriented tool for measuring product and brand visibility in AI search.
