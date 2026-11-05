@@ -65,6 +65,11 @@
           "description": "Platform for AEO audits, monitoring, and optimization workflows."
         },
         {
+          "name": "AgentSEO",
+          "url": "https://www.agentseo.dev/seo-mcp-server",
+          "description": "REST API and MCP tools that return structured SERP data and Google AI Overview signals for SEO and AEO workflows."
+        },
+        {
           "name": "Ahrefs Brand Radar",
           "url": "https://ahrefs.com/brand-radar",
           "description": "Ahrefs product for tracking brand mentions, citations, and competitors across AI search surfaces."
