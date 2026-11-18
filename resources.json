@@ -201,6 +201,11 @@
           "description": "Open-source validator for checking llms.txt files from the command line or web."
         },
         {
+          "name": "Elmo",
+          "url": "https://github.com/elmohq/elmo",
+          "description": "Open-source (MIT) Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, free to self-host with an optional paid managed cloud."
+        },
+        {
           "name": "GeoStorm",
           "url": "https://github.com/geostorm-ai/geostorm",
           "description": "Open-source GEO tracker for running prompts and analyzing AI answer visibility."
