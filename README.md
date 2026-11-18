@@ -102,6 +102,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 
 - [Ansvisor](https://github.com/ansvisor/ansvisor) - Open-source answer engine visibility tracker for monitoring brand mentions across prompts.
 - [BridgeToAgent llms.txt Validator](https://github.com/BridgeToAgent/llms-txt-validator) - Open-source validator for checking llms.txt files from the command line or web.
+- [Elmo](https://github.com/elmohq/elmo) - Open-source (MIT) Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, free to self-host with an optional paid managed cloud.
 - [GeoStorm](https://github.com/geostorm-ai/geostorm) - Open-source GEO tracker for running prompts and analyzing AI answer visibility.
 - [OneGlanse](https://github.com/aryamantodkar/oneglanse) - Self-hostable AI visibility tracker for ChatGPT, Gemini, Claude, Perplexity, and Google AI Overview.
 - [OpenCite](https://github.com/smartaces/opencite) - Open-source project for logging and analyzing citations returned by LLMs.
