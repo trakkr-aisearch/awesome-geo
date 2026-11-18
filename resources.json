@@ -125,6 +125,11 @@
           "description": "AI visibility platform for prompt tracking and competitive monitoring."
         },
         {
+          "name": "LLMMonitor",
+          "url": "https://llmmonitor.io/",
+          "description": "AI visibility platform for tracking brand mentions, position, sentiment, share of voice, and cited sources across ChatGPT, Claude, Gemini, Google AI Mode, and Microsoft Copilot."
+        },
+        {
           "name": "LLMrefs",
           "url": "https://llmrefs.com/",
           "description": "Tool for monitoring which pages and domains LLMs reference across prompts."
