@@ -85,6 +85,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Goodie](https://higoodie.com/) - AI search visibility platform for answer monitoring and action planning.
 - [Hall](https://usehall.com/) - AI visibility tool for tracking brand mentions, sentiment, and citations.
 - [Knowatoa](https://knowatoa.com/) - AI visibility platform for prompt tracking and competitive monitoring.
+- [LLMMonitor](https://llmmonitor.io/) - AI visibility platform for tracking brand mentions, position, sentiment, share of voice, and cited sources across ChatGPT, Claude, Gemini, Google AI Mode, and Microsoft Copilot.
 - [LLMrefs](https://llmrefs.com/) - Tool for monitoring which pages and domains LLMs reference across prompts.
 - [Lumar AI Visibility](https://www.lumar.io/ai-visibility-tracking-lumar/) - Lumar product for tracking AI brand visibility, citations, sentiment, and technical content gaps.
 - [Meev](https://meev.ai/) - AI visibility monitoring platform for brand, competitor, and citation tracking.
