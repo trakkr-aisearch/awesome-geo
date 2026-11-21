@@ -175,6 +175,11 @@
           "description": "Similarweb tool for checking how brands appear in AI-generated answers."
         },
         {
+          "name": "SupaSEO",
+          "url": "https://supaseo.dev",
+          "description": "Local SEO and AI citation tracking across Google Maps, Google organic results, and AI answer engines via user-supplied provider keys; one-time license."
+        },
+        {
           "name": "Writesonic GEO",
           "url": "https://writesonic.com/",
           "description": "Content and AI search platform with GEO tracking and optimization workflows."

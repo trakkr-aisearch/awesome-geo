@@ -95,6 +95,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Scrunch](https://scrunch.com/) - AI customer experience platform with monitoring, citation, agent traffic, and AI search insight features.
 - [Semrush AI Visibility](https://www.semrush.com/features/) - Semrush toolkit for tracking AI visibility, prompts, citations, and related SEO metrics.
 - [Similarweb AI Brand Visibility](https://aisearch.similarweb.com/ai-brand-visibility/) - Similarweb tool for checking how brands appear in AI-generated answers.
+- [SupaSEO](https://supaseo.dev) - Local SEO and AI citation tracking across Google Maps, Google organic results, and AI answer engines via user-supplied provider keys; one-time license.
 - [Writesonic GEO](https://writesonic.com/) - Content and AI search platform with GEO tracking and optimization workflows.
 - [ZipTie](https://ziptie.dev/) - Platform for AI search visibility, citation tracking, and technical readiness checks.
 
