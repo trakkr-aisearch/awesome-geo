@@ -231,6 +231,7 @@ A proposed format for making selected content available to LLM tools. A valid fi
 - [Self-Promotional Listicles Analysis](https://peec.ai/blog/self-promotional-listicles-analysis-from-232k-citations) - Peec AI analysis of self-promotional listicles across AI citations.
 - [The Competition for Brand Visibility Has Moved to AI Search](https://martech.org/the-competition-for-brand-visibility-has-moved-to-ai-search/) - MarTech article on AI search visibility metrics and planning.
 - [The State of AI Search 2026](https://www.muratulusoy.de/en/research/state-of-ai-search-2026.html) - Independent report on brand visibility across six generative systems.
+- [What AI Tools Cite and Name When Buyers Ask for Marketing Help](https://greaterthanservices.com/blog/ai-answer-study-2026) - Greater Than Services study of 3,904 answers on marketing-help queries across six markets, with a repeatability check on a random subset.
 - [What Is AI Visibility?](https://www.similarweb.com/blog/marketing/geo/what-is-ai-visibility/) - Similarweb guide to AI visibility dimensions, measurement, and citation quality.
 - [What Does a Good Citation Rate Look Like?](https://peec.ai/blog/citation-rate-benckmarks-from-over-1-million-citations) - Peec AI benchmark analysis of citation rates across AI search responses.
 - [Your AI Search Citation Questions, Answered](https://scrunch.com/blog/ai-search-citation-questions-answered) - Scrunch guide to AI search citation tracking and citation strategy.
