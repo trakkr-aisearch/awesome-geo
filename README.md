@@ -109,6 +109,7 @@ A selected reference set, not an exhaustive vendor directory. Additional tools n
 - [Prompt Clarity](https://github.com/promptclarity/promptclarity) - Open-source tool for tracking brand visibility in LLM responses with user-supplied API keys.
 - [Schema Markup Validator](https://validator.schema.org/) - Free validator for checking schema.org structured data.
 - [TechnicalSEO Robots.txt Tester](https://technicalseo.com/tools/robots-txt/) - Free browser tool for testing robots.txt rules against user agents.
+- [WebDecoy for WordPress](https://wordpress.org/plugins/webdecoy/) - Open-source plugin that counts AI crawler requests reaching WordPress and separately reports visits referred by AI assistants, without an account or API key for local reports.
 
 ## Free Checkers
 
