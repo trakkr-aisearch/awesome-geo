@@ -234,6 +234,11 @@
           "name": "TechnicalSEO Robots.txt Tester",
           "url": "https://technicalseo.com/tools/robots-txt/",
           "description": "Free browser tool for testing robots.txt rules against user agents."
+        },
+        {
+          "name": "WebDecoy for WordPress",
+          "url": "https://wordpress.org/plugins/webdecoy/",
+          "description": "Open-source plugin that counts AI crawler requests reaching WordPress and separately reports visits referred by AI assistants, without an account or API key for local reports."
         }
       ]
     },
